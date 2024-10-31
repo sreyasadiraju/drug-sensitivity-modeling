@@ -1,2 +1,3 @@
-# drug-sensitivity-modeling
- Hierarchical Bayesian modeling, deep learning, and hypothesis testing for discovering pharmacogenomic interactions in cancer drug screens.
+# APMA 4903 Project: Modeling Drug Sensitivity and Pharmacogenomic Interactions with GDSC2
+Sreyas Adiraju, Nicole Kim, and Somin Lee
+
